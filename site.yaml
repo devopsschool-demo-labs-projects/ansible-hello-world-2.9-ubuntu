@@ -7,5 +7,5 @@
      prompt : "Please enter nios license strings(ex. nios IB-V1425 enterprise dns dhcp cloud)"
      private: no
   roles:
-    - role: vmware
+    - role: web
 #    - role: web
